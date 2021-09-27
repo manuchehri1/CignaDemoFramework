@@ -1,0 +1,27 @@
+
+
+User Stories - for https://www.demoblaze.com/
+
+1) Home Page
+User should see the categories of products when he/she is on the home page 
+
+2) Sign Up 
+User should be able to sign up before shopping from demoblaze
+
+
+3) Sign In 
+User should be able to login with valid cradetials 
+User should not be able to login with invalid cradetials 
+
+4) Log Out
+User should be able to log out by clicking Log Out button 
+
+5) Shopping cart/order
+User should be able to add the selected item to the cart
+User should be able to go to the cart 
+User should be able to see the total price in the cart 
+User should be able to delete the item from the cart 
+User should be able to place order 
+
+6) Contact 
+User should be able to contact the demoblaze via contact module 
